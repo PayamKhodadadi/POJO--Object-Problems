@@ -21,6 +21,6 @@ Commands to run test:
 
 mocha
 or
-mocha .\test\<file-name>
+mocha .\test\ <file-name>
 or
-npx mocha .\test\<file-name>
+npx mocha .\test\ <file-name>
